@@ -6,6 +6,10 @@ A full-stack web application that displays posts from Reddit's r/SideProject com
 ![Tech Stack](https://img.shields.io/badge/Backend-Flask-000000?style=flat-square&logo=flask)
 ![Tech Stack](https://img.shields.io/badge/Language-Python%20%7C%20JavaScript-blue?style=flat-square)
 
+
+<img width="1923" height="883" alt="Screenshot 2025-10-05 161903" src="https://github.com/user-attachments/assets/a12a4c4f-2f87-4e3b-9d5a-6dd909344b96" />
+
+
 🔗 **GitHub Repository:** [https://github.com/Rajan167030/sideproject](https://github.com/Rajan167030/sideproject)
 
 ---
